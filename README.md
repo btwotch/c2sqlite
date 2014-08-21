@@ -1,7 +1,7 @@
 c2sqlite
 ========
 c2sqlite uses libclang to put basic information of your c-files into a sqlite database. Current information that is
-stored is:
+stored:
 - which function calls which function
 - declaration of functions
 - function parameters
